@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B9115FA7-CCA1-4D40-9799-700105785B0E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../index.html">
+    <Files>
+      <File FileName="week1/Program.cs" Line="13" Column="1" />
+      <File FileName="../../../../Downloads/Exercise 1.1-1.5/index.html" Line="51" Column="8" />
+      <File FileName="../../../index.html" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.week1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
